@@ -1,6 +1,7 @@
 # Információs Rendszerek Integrálása féléves feladat
 ## Sorszám: 11
-Fény intenzitás monitorozó rendszer
+**Fény intenzitás monitorozó rendszer**
+
 Készítsen egy alkalmazást, amely a beltéri fényszintet (lux) figyeli. A rendszer három külön kliensből áll: egy adatgenerátorból, egy feldolgozóból és egy riasztás-kezelő kliensből.
 
 Komponens 1: Light Intensity Generation Client
